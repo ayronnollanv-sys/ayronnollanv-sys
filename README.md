@@ -2,16 +2,18 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
- - [Active Directory Home Lab](https://github.com/joshmadakor./LABURL)
+ - [#Hashing](https://github.com/joshmadakor./LABURL)
+   
  - [Hello World!](https://github.com/joshcybertest/LABURL)
 <h2>📜 Certifications and Degrees</h2>
+
+ - [Bachelors in Education](https://github.com/joshmadakor./LABURL)
+- [M.A. Cybersecurity & Technology](https://github.com/joshmadakor./LABURL)
+- [Comptia Security+](https://github.com/joshmadakor./LABURL)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
