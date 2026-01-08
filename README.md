@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
- - [#Hashing](https://github.com/ayronnollanv-sys/Hashing/tree/main)
+ - [#Hashing **Video**](https://github.com/ayronnollanv-sys/Hashing/tree/main)
    
  - [Threat Level Midnight!](https://github.com/ayronnollanv-sys/Threat-Level-Midnight/tree/main)
 
