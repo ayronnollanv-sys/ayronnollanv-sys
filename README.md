@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
- - [#Hashing](https://github.com/joshmadakor./LABURL)
+ - [#Hashing](https://github.com/ayronnollanv-sys/Hashing/tree/main)
    
- - [Hello World!](https://github.com/joshcybertest/LABURL)
+ - [Hello World!](https://github.com/ayronnollanv-sys/Hashing/tree/main)
 <h2>📜 Certifications and Degrees</h2>
 
  - [Bachelors in Education](https://github.com/joshmadakor./LABURL)
