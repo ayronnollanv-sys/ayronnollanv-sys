@@ -14,6 +14,9 @@
 - [M.A. Cybersecurity & Technology](https://github.com/joshmadakor./LABURL)
 - [Comptia Security+](https://github.com/joshmadakor./LABURL)
 
+  Currently Working On:
+- <b>Comptia Pentest+<b>
+- <b>TryHackMe Jr Pentester<b>
 
 <h2> 🤳 Connect with me:</h2>
 
